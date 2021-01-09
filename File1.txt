@@ -5,3 +5,5 @@ change 2
 for master rebase and
 idea rebase
 
+change 3
+
