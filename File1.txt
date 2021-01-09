@@ -1,3 +1,7 @@
-change1
+
+
+change 1
 change 2
-bug 123 rebase
+for master rebase and
+idea rebase
+
